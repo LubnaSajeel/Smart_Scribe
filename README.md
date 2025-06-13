@@ -31,18 +31,16 @@
 
 ## 🛠 Tech Stack
 
-- *Frontend*: React / Next.js / Tailwind CSS  
-- *Backend*: Node.js / Express / Python (AI Services)  
-- *AI Services*: OpenAI / Whisper / Transformers  
-- *Storage*: Firebase / AWS S3  
-- *Database*: MongoDB / PostgreSQL
+- *Frontend*: Gradio
+- *Backend*: Python / whisper / moviepy / transformers / nltk / scikit-learn / yt-dlp 
+- *Deployment*: Hugging Face Spaces
 
 ---
 
 ## 📦 Installation
 
 bash
-git clone https://github.com/your-username/smartscribe.git
+git clone https://github.com/LubnaSajeel/Smart_Scribe
 cd smartscribe
 npm install
 npm run dev
@@ -54,8 +52,6 @@ npm run dev
 
 For inquiries, feedback, or collaboration opportunities, please reach out to us:
 
-- 📧 *Email*: [contact@smartscribe.ai](mailto:contact@smartscribe.ai)  
-- 🌐 *Website*: [www.smartscribe.ai](https://www.smartscribe.ai)  
-- 📱 *Instagram*: [@smartscribe.ai](https://instagram.com/smartscribe.ai)
+- 🌐 *Website*: [https://thomasanto7001-smartscribe.hf.space](https://thomasanto7001-smartscribe.hf.space)  
 
 ---
